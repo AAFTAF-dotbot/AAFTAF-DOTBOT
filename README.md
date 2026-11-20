@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm M Aaftaf
 
-<!--
-**AAFTAF-dotbot/AAFTAF-DOTBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech CSE Student
+- CDS Aspirant
+- Son of an Indian Army Personnel
+- Learning Python, Java, HTML and CSS
 
-Here are some ideas to get you started:
+## Career Goal
+My primary goal is to join the Indian Army through CDS and serve as an officer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning
+- Python
+- Java
+- HTML
+- CSS
+
+## Sports
+- Football Player
+- Participated in the Subroto State Level Football Tournament
+
+## Goals
+- Improve coding skills
+- Build projects
+- Prepare for CDS and SSB
+- Improve fitness and communication skills
